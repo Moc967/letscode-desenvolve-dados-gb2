@@ -6,6 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-gray?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-276DC3?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-red?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
 
 ---
 <p>
